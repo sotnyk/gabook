@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleGP", "SimpleGP\SimpleGP.csproj", "{5FA03B31-E2FB-4FCC-AE60-11447B9F8EBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FA03B31-E2FB-4FCC-AE60-11447B9F8EBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FA03B31-E2FB-4FCC-AE60-11447B9F8EBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FA03B31-E2FB-4FCC-AE60-11447B9F8EBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FA03B31-E2FB-4FCC-AE60-11447B9F8EBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
